@@ -3,4 +3,8 @@ testeee
 lalala1
 curso github
 
+<<<<<<< HEAD
 alterei arquivo sem baixar
+=======
+oi
+>>>>>>> 6682662b7b6ca9844b9bb3f7e9d626870384e283
